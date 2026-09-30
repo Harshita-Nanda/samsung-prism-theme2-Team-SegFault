@@ -204,7 +204,7 @@ docker-compose.yml
 
 Release tag: PRISM\_GENAI\_HACKATHON\_Y2026
 
-Demo video: <link>
+Demo video: [Google Drive Walkthrough Video](https://drive.google.com/file/d/1UQJK8GgxAuzQIZbgipz040OZmuzmU_YO/view?usp=sharing)
 
 Presentation: MSRIT_SegFault
 
