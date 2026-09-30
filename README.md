@@ -5,6 +5,8 @@
 Samsung PRISM GenAI Hackathon | Theme 2
 
 
+Demo video: [Google Drive Walkthrough Video](https://drive.google.com/file/d/1UQJK8GgxAuzQIZbgipz040OZmuzmU_YO/view?usp=sharing)
+
 
 An API service that turns vague customer complaints (e.g. "my phone is super slow and hot") into clean, validated, machine-actionable troubleshooting plans, delivered as strict JSON.
 
@@ -203,8 +205,6 @@ docker-compose.yml
 
 
 Release tag: PRISM\_GENAI\_HACKATHON\_Y2026
-
-Demo video: [Google Drive Walkthrough Video](https://drive.google.com/file/d/1UQJK8GgxAuzQIZbgipz040OZmuzmU_YO/view?usp=sharing)
 
 Presentation: MSRIT_SegFault
 
