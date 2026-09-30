@@ -206,7 +206,7 @@ Release tag: PRISM\_GENAI\_HACKATHON\_Y2026
 
 Demo video: <link>
 
-Presentation: CollegeName\_TeamName
+Presentation: MSRIT_SegFault
 
 
 
